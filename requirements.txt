@@ -1,0 +1,10 @@
+gymnasium
+stable_baselines3
+matplotlib
+numpy
+pandas
+seaborn
+Box2D
+pygame
+tensorboard
+moviepy
